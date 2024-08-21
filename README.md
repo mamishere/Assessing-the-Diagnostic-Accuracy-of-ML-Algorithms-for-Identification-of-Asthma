@@ -2,10 +2,13 @@
 
 **Authors:**
 
-- **O. K. Gargari**
+- **O. Kohandel Gargari**
+- **M. Fathi**
+- **S. Rajai Firouzabadi**
+- **I. Mohammadi**
 - **M. H. Mahmoudi**
-- **M. Hajisafarali**
-- **R. Samiee**
+- **M. Sarmadi**
+- **A. Shafiee**
 
 *2024*
 
